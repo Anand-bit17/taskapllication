@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "Wujx89qCqgfPkvPO7bXTza0o+745+XvxNVRChiuWkQI=",
+  "Source": "emptyapp",
+  "BasePath": "_content/emptyapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hp\\source\\repos\\emptyapp\\emptyapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\emptyapp.styles.css",
+      "SourceId": "emptyapp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\hp\\source\\repos\\emptyapp\\emptyapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/emptyapp",
+      "RelativePath": "emptyapp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\source\\repos\\emptyapp\\emptyapp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\emptyapp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\source\\repos\\emptyapp\\emptyapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\emptyapp.bundle.scp.css",
+      "SourceId": "emptyapp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\hp\\source\\repos\\emptyapp\\emptyapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/emptyapp",
+      "RelativePath": "emptyapp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\source\\repos\\emptyapp\\emptyapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\emptyapp.bundle.scp.css"
+    }
+  ]
+}
